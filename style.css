@@ -1,0 +1,43 @@
+body{
+    background-color: #ddd;
+}
+.row {
+    background-color: white;
+    height: 250px;
+    border-bottom: 1px darkgray solid;
+    align-content: space-around;
+    align-items: center;
+}
+.red{
+    color : red
+}
+.row1 {
+    background-color: darkgray;
+    height: 60px;
+    padding: 10px 30px;
+    margin-bottom: 50px;
+}
+
+.fa-shopping-cart {
+    margin-right: 30px;
+}
+
+.img {
+    width: auto;
+    height: 80%;
+    margin:10px;
+    
+}
+
+.col-2 {
+    justify-content: center;
+    padding-left: 80px;
+}
+
+.coll {
+    font-size: 20px;
+}
+
+.fa-times {
+    margin-right: 20px;
+}
